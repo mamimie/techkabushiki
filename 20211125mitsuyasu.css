@@ -1,6 +1,6 @@
-.text {
+ p{
     color:darkblue;
   }
-  p{
-    border: solid 1000px #000080;
+  h1{
+    border: solid 10px #000000;
   }
