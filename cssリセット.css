@@ -1,30 +1,12 @@
-html {
-    text-align: center;
-} 
-body {
-  text-align: center;
-  height: 400px;
-  font-size: 40px;
-  width: 1000px;
-}  
-div,
-span, object, iframe,
-h1, h2, h3, h4, h5, h6, 
-p , blockquote, pre,
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 abbr, address, cite, code,
 del, dfn, em, img, ins, kbd, q, samp,
 small, strong, sub, sup, var,
 b, i,
 dl, dt, dd, ol, ul, li,
-fieldset,
-form {
-     width: 780px;
-} 
-label, legend,
-table, caption, tbody, tfoot, thead, tr, th, 
-td {
-  width: 200px;
-}
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
 article, aside, canvas, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section, summary,
 time, mark, audio, video {
@@ -38,8 +20,7 @@ time, mark, audio, video {
 }
 
 body {
-    height: 400px;
-    font-size: 40px;
+    line-height:1;
 }
 
 article,aside,details,figcaption,figure,

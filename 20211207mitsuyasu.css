@@ -1,0 +1,21 @@
+ p{
+  font-size: 20px;
+  color:darkblue;
+  }
+ ul{
+   color: darkblue;
+ }
+  head{
+     background-image: url("..img/firstview.jpeg") no-repeat bottom;
+     background-size: 1000px;
+     width: 1000px;
+}
+ ul{
+     text-align: right;
+ }
+ div{
+     color: black;
+     ;
+     font-size: 40px;
+     border-bottom: 80px solid darkblue;
+ }
