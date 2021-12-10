@@ -1,21 +1,25 @@
- p{
+ p {
   font-size: 20px;
   color:darkblue;
   }
- ul{
+ ul {
    color: darkblue;
  }
-  head{
+ 
+ span {
+   flex-direction: row;
+ }
+
+ head {
      background-image: url("..img/firstview.jpeg") no-repeat bottom;
      background-size: 1000px;
      width: 1000px;
 }
- ul{
-     text-align: right;
+  flex-container {
+    flex-direction: row;
  }
- div{
+ div {
      color: black;
-     ;
      font-size: 40px;
-     border-bottom: 80px solid darkblue;
+     border-bottom: 20px solid darkblue;
  }
